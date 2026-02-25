@@ -27,6 +27,31 @@
 
 --------------------
 
+## Artikel.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee0777f-9586-4719-b2f8-edcbe0d99687" />
+
+--------------------
+
+## Contact.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5850c7c5-4edb-44a8-a1ac-637d823c6527" />
+
+--------------------
+
+## Home.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/248c848a-2b30-4f2c-b60a-d2bdad7f6990" />
+
+--------------------
+
+## Header.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48bd87b8-28f4-46a3-85ef-73a1e17e42bb" />
+
+--------------------
+
+## Footer.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ddc4c52-c66e-4914-89fd-19fca63bd5a0" />
+
+-------------------
+
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7facd40f-38fe-4bde-bfe0-32c50ec6ac07" />
 
