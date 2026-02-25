@@ -14,11 +14,6 @@
 
 ---------------------
 
-## Struktur Folder
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c66fb984-a791-4a33-9c88-989e07735d55" />
-
----------------------
-
 ## Menambahkan routing untuk menghubungkan URL dengan controller Page. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b104176d-e884-4e87-abb0-22d3f1da407c" />
 
