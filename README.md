@@ -38,7 +38,7 @@
 ---------------------
 
 ## ini Halaman About: http://localhost:8080/about
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b88b6972-9cce-4caf-93e3-1fe7f8484ed1" />
+<img width="1633" height="872" alt="image" src="https://github.com/user-attachments/assets/0806e710-9cc0-4b25-93bc-a2848af0fd26" />
 
 ## Setelah ditambahkan Style.css praktikum lab4_layout
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/797690e4-45b5-4bdc-9f61-139bc419f361" />
