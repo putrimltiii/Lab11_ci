@@ -33,7 +33,7 @@
 --------------------
 
 ## Tampilan error page
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b7413c9-50fb-49a1-8bfb-1e86409bee45" />
+<img width="1618" height="869" alt="image" src="https://github.com/user-attachments/assets/e80c6a87-5106-4cf1-b918-d81c041d1d4e" />
 
 ---------------------
 
