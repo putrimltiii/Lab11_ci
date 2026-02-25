@@ -17,9 +17,14 @@
 ---------------------
 
 ## Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40608ce2-925e-48b2-84ac-b4cadd3bd041" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a1ad4e1-034c-4b7a-9e09-3c6f7a209a84" />
+
 
 ---------------------
+
+## About.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc1d4335-87b3-461e-b3e7-c3f792be2017" />
+
 
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95321e01-0b04-4043-9fab-178e34ce12cf" />
@@ -31,7 +36,14 @@
 
 ---------------------
 
-## ini Tampilan About
+## ini Halaman About
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97566199-06d5-4704-b69b-1bda14c1cf09" />
+
+--------------------
+
+## Ini Halaman Contact
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d9195c4-58ab-45fd-90ea-c80dc7bf73f9" />
+
+
 
 
