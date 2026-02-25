@@ -46,7 +46,8 @@
 --------------------
 
 ## Ini Halaman Contact: http://localhost:8080/contact
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a6caead-4485-428d-ae4f-8cc308391330" />
+<img width="1920" height="961" alt="halaman contact" src="https://github.com/user-attachments/assets/d661a17a-8af0-4892-aa45-11f740934058" />
+
 ## Setelah ditambahkan Style.css praktikum lab4_layout
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3af57913-87ca-4c1a-8283-f356f79380cf" />
 
