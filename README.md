@@ -24,7 +24,8 @@
 ---------------------
 
 ## About.php
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc1d4335-87b3-461e-b3e7-c3f792be2017" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4c2abf3-3634-4694-9125-980c099c1375" />
+
 
 
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
