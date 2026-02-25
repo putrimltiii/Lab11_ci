@@ -13,23 +13,23 @@
 ---------------------
 
 ## Menambahkan routing untuk menghubungkan URL dengan controller Page. 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e974738-35c6-425c-ae7f-e25261e97535" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd9b158e-92b4-4f29-a33d-4198788e8b78" />
+
 
 ---------------------
 
 ## Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a1ad4e1-034c-4b7a-9e09-3c6f7a209a84" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3877a7f-f62c-4a51-8b72-ff06465c9ed8" />
 
 ---------------------
 
 ## About.php
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4c2abf3-3634-4694-9125-980c099c1375" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/270dc5bc-ac59-426f-b01b-0ddc4e157acd" />
 
-
+--------------------
 
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95321e01-0b04-4043-9fab-178e34ce12cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3d762f5-0d43-4c96-9701-bfe2fc915c2a" />
 
 --------------------
 
@@ -38,13 +38,20 @@
 
 ---------------------
 
-## ini Halaman About
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97566199-06d5-4704-b69b-1bda14c1cf09" />
+## ini Halaman About: http://localhost/lab11_ci/ci4/public/about
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91c09cb3-637d-45f1-93b7-80d7c32d77ec" />
+
 
 --------------------
 
-## Ini Halaman Contact
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d9195c4-58ab-45fd-90ea-c80dc7bf73f9" />
+## Ini Halaman Contact: http://localhost/lab11_ci/ci4/public/contact
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c67a8421-142e-4a29-8815-7a5fc6fb3b64" />
+
+-------------------
+
+## Ini Halaman Artikel: http://localhost/lab11_ci/ci4/public/artikel
+
+
 
 
 
