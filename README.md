@@ -52,6 +52,11 @@
 
 -------------------
 
+## Style.css
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60416999-c5b5-43d5-986e-768a5eefe2cc" />
+
+------------------
+
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7facd40f-38fe-4bde-bfe0-32c50ec6ac07" />
 
