@@ -12,15 +12,22 @@
 ---------------------
 
 ## Pada tahap ini saya menambahkan routing untuk menghubungkan URL dengan controller Page. 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8fd3183-9bcb-46e3-97af-f81c9759d3c9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e974738-35c6-425c-ae7f-e25261e97535" />
 
 ---------------------
 
 ## Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62d07737-05c5-4a25-8bf8-1edb39dee16d" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40608ce2-925e-48b2-84ac-b4cadd3bd041" />
 
 ---------------------
 
-## Ini halaman About
+## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95321e01-0b04-4043-9fab-178e34ce12cf" />
+
+--------------------
+
+## ini halaman About: http://localhost/lab11_ci/ci4/public/about
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b7413c9-50fb-49a1-8bfb-1e86409bee45" />
+
+--------------------
+
