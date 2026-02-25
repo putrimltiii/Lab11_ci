@@ -26,7 +26,7 @@
 
 --------------------
 
-## ini halaman About: http://localhost/lab11_ci/ci4/public/about
+## Tampilan error page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b7413c9-50fb-49a1-8bfb-1e86409bee45" />
 
 --------------------
