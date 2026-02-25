@@ -10,6 +10,8 @@
 Pada tahap ini, CodeIgniter 4 berhasil diinstal dan dijalankan melalui browser dengan alamat http://localhost/lab11_ci/ci4/public/.
 Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan siap digunakan untuk pengembangan aplikasi.
 
+---------------------
+
 Controller Page.php dibuat untuk menangani request dari route yang telah dibuat sebelumnya.
 Controller ini berisi beberapa method seperti:
 home()
