@@ -12,7 +12,7 @@
 
 ---------------------
 
-## Pada tahap ini saya menambahkan routing untuk menghubungkan URL dengan controller Page. 
+## Menambahkan routing untuk menghubungkan URL dengan controller Page. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e974738-35c6-425c-ae7f-e25261e97535" />
 
 ---------------------
