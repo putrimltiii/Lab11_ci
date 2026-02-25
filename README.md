@@ -12,11 +12,16 @@ Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan si
 
 ---------------------
 
-Controller Page.php dibuat untuk menangani request dari route yang telah dibuat sebelumnya.
-Controller ini berisi beberapa method seperti:
-home()
-about()
-artikel()
-contact()
-Setiap method akan memanggil view yang sesuai dan mengirimkan data berupa title dan content.
+Pada tahap ini saya menambahkan routing untuk menghubungkan URL dengan controller Page. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8fd3183-9bcb-46e3-97af-f81c9759d3c9" />
+
+---------------------
+
+Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62d07737-05c5-4a25-8bf8-1edb39dee16d" />
+
+
+---------------------
+
+Ini halaman About
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95321e01-0b04-4043-9fab-178e34ce12cf" />
