@@ -59,6 +59,7 @@
 
 ## Style.css
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60416999-c5b5-43d5-986e-768a5eefe2cc" />
+- Penjelasan: File style.css digunakan untuk mengatur tampilan visual website agar lebih terstruktur dan menarik. CSS berfungsi untuk mengatur warna, layout, ukuran teks, serta tampilan navigasi dan footer. Dengan adanya file CSS, tampilan website menjadi lebih profesional dibandingkan hanya menggunakan HTML tanpa styling.
 
 ------------------
 
