@@ -5,7 +5,7 @@
 # Nama: Putri Melati Ramadhaniati
 # NIM: 312410194
 # Kelas: I241B
-
+## PERTEMUAN 2
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe68fffc-204e-4a5d-b5c6-7d64d89cba30" />
 ## Pada tahap ini, CodeIgniter 4 berhasil diinstal dan dijalankan melalui browser dengan alamat http://localhost:8080/. Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan siap digunakan untuk pengembangan aplikasi.
