@@ -14,6 +14,11 @@
 
 ---------------------
 
+## Struktur Folder
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c66fb984-a791-4a33-9c88-989e07735d55" />
+
+---------------------
+
 ## Menambahkan routing untuk menghubungkan URL dengan controller Page. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b104176d-e884-4e87-abb0-22d3f1da407c" />
 
@@ -93,6 +98,8 @@
 ## Ini Halaman Artikel: http://localhost:8080/artikel
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2681f059-e2dc-4839-b6c1-b5ea2374bc92" />
 - Penjelasan: Halaman Artikel berhasil ditampilkan melalui URL /artikel. Hal ini membuktikan bahwa method artikel() pada controller telah berfungsi dengan baik serta file view sudah tersedia pada direktori yang benar.
+  
+-------------------
 
 # Kesimpulan: 
 Praktikum ini berhasil mengimplementasikan konsep MVC pada framework CodeIgniter. Routing digunakan untuk mengatur jalur URL, controller menangani logika aplikasi, dan view bertanggung jawab terhadap tampilan.
