@@ -7,6 +7,7 @@
 # Kelas: I241B
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e762a079-d998-4026-b91a-f40ca31d24db" />
+
 ## Pada tahap ini, CodeIgniter 4 berhasil diinstal dan dijalankan melalui browser dengan alamat http://localhost/lab11_ci/ci4/public/. Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan siap digunakan untuk pengembangan aplikasi.
 
 ---------------------
