@@ -29,5 +29,9 @@
 ## Tampilan error page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b7413c9-50fb-49a1-8bfb-1e86409bee45" />
 
---------------------
+---------------------
+
+## ini Tampilan About
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97566199-06d5-4704-b69b-1bda14c1cf09" />
+
 
