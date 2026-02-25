@@ -7,29 +7,28 @@
 # Kelas: I241B
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6032d300-fe76-4e72-be0a-5e51129658e5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe68fffc-204e-4a5d-b5c6-7d64d89cba30" />
 ## Pada tahap ini, CodeIgniter 4 berhasil diinstal dan dijalankan melalui browser dengan alamat http://localhost:8080/. Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan siap digunakan untuk pengembangan aplikasi.
 
 ---------------------
 
 ## Menambahkan routing untuk menghubungkan URL dengan controller Page. 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd9b158e-92b4-4f29-a33d-4198788e8b78" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b104176d-e884-4e87-abb0-22d3f1da407c" />
 
 ---------------------
 
 ## Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3877a7f-f62c-4a51-8b72-ff06465c9ed8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c44082d6-9b25-47cf-b260-3b284761cf85" />
 
 ---------------------
 
 ## About.php
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50151e6a-c15c-4ede-bfea-648b2136eb91" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ee02733-4e6b-4d38-a020-93ceab2f21f9" />
 
 --------------------
 
 ## Ini halaman Public: http://localhost/lab11_ci/ci4/public/
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3d762f5-0d43-4c96-9701-bfe2fc915c2a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7facd40f-38fe-4bde-bfe0-32c50ec6ac07" />
 
 --------------------
 
@@ -38,21 +37,27 @@
 
 ---------------------
 
-## ini Halaman About: http://localhost/lab11_ci/ci4/public/about
+## ini Halaman About: http://localhost:8080/about
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b88b6972-9cce-4caf-93e3-1fe7f8484ed1" />
 
 ## Setelah ditambahkan Style.css praktikum lab4_layout
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43041924-02a8-4149-88ea-ebdc4ee5693a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/797690e4-45b5-4bdc-9f61-139bc419f361" />
 
 --------------------
 
-## Ini Halaman Contact: http://localhost/lab11_ci/ci4/public/contact
+## Ini Halaman Contact: http://localhost:8080/contact
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a6caead-4485-428d-ae4f-8cc308391330" />
+## Setelah ditambahkan Style.css praktikum lab4_layout
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3af57913-87ca-4c1a-8283-f356f79380cf" />
 
 -------------------
 
-## Ini Halaman Artikel: http://localhost/lab11_ci/ci4/public/artikel
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1c2e22d-196f-456e-81f2-a1e2bf41518c" />
+## Ini Halaman Artikel: http://localhost:8080/artikel
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2681f059-e2dc-4839-b6c1-b5ea2374bc92" />
+
+
+
+
 
 
 
