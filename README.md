@@ -19,6 +19,7 @@
 
 ## Controller Page.php dibuat untuk menangani request dari user dan menghubungkan dengan view.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c44082d6-9b25-47cf-b260-3b284761cf85" />
+- Penjelasan: Controller Page.php dibuat untuk menangani logika aplikasi. Controller ini berisi beberapa method seperti home(), about(), contact(), dan artikel(). Setiap method mengembalikan tampilan menggunakan fungsi return view(), yang mengirimkan data berupa title dan content ke file view. Ini menunjukkan penerapan arsitektur Model-View-Controller, di mana controller bertindak sebagai penghubung antara sistem dan tampilan.
 
 ---------------------
 
