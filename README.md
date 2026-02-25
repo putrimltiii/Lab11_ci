@@ -7,6 +7,8 @@
 # Kelas: I241B
 ## PERTEMUAN 2
 
+# Praktikum ini bertujuan untuk memahami konsep Model-View-Controller (MVC) menggunakan framework CodeIgniter 4. Implementasi dilakukan dengan membuat routing, controller, dan view untuk beberapa halaman seperti Home, About, Contact, dan Artikel.
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe68fffc-204e-4a5d-b5c6-7d64d89cba30" />
 ## Pada tahap ini, CodeIgniter 4 berhasil diinstal dan dijalankan melalui browser dengan alamat http://localhost:8080/. Halaman default ini menandakan bahwa framework sudah berjalan dengan baik dan siap digunakan untuk pengembangan aplikasi.
 
@@ -25,11 +27,13 @@
 
 ## About.php
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ee02733-4e6b-4d38-a020-93ceab2f21f9" />
-
+- Penjelasan: about.php dibuat pada direktori app/Views. View berfungsi sebagai komponen yang menangani tampilan antarmuka pengguna. Menggunakan sintaks <?= $title ?> dan <?= $content ?> untuk menampilkan data yang dikirim dari controller. Hal ini menunjukkan bahwa data telah berhasil diteruskan dari controller ke view.
+  
 --------------------
 
 ## Artikel.php
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee0777f-9586-4719-b2f8-edcbe0d99687" />
+- Penjelasan: artikel.php dibuat untuk menampilkan halaman artikel. Sama seperti halaman About, file ini menerima data dari controller dan menampilkannya dalam format HTML. Pembuatan file ini bertujuan untuk memastikan setiap halaman memiliki view terpisah sehingga struktur kode menjadi lebih terorganisir dan modular.
 
 --------------------
 
@@ -73,6 +77,7 @@
 
 ## Setelah ditambahkan Style.css praktikum lab4_layout
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/797690e4-45b5-4bdc-9f61-139bc419f361" />
+- Penjelasan: Halaman About berhasil ditampilkan melalui URL /about. Tampilan menunjukkan bahwa routing, controller, dan view telah terintegrasi dengan baik. Data yang dikirim dari controller berhasil ditampilkan pada browser, menandakan implementasi MVC berjalan sesuai prosedur.
 
 --------------------
 
@@ -86,7 +91,11 @@
 
 ## Ini Halaman Artikel: http://localhost:8080/artikel
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2681f059-e2dc-4839-b6c1-b5ea2374bc92" />
+- Penjelasan: Halaman Artikel berhasil ditampilkan melalui URL /artikel. Hal ini membuktikan bahwa method artikel() pada controller telah berfungsi dengan baik serta file view sudah tersedia pada direktori yang benar.
 
+# Kesimpulan: 
+Praktikum ini berhasil mengimplementasikan konsep MVC pada framework CodeIgniter. Routing digunakan untuk mengatur jalur URL, controller menangani logika aplikasi, dan view bertanggung jawab terhadap tampilan.
+Hasil akhir menunjukkan bahwa setiap halaman dapat diakses dengan URL yang berbeda dan menampilkan konten sesuai dengan method yang dibuat pada controller.
 
 
 
