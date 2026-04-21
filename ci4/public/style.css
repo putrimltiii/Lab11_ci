@@ -1,0 +1,199 @@
+/* --- RESET & BASE --- */
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fdf2f8; /* Soft Pink background */
+    color: #4a1d96; /* Deep Purple text */
+}
+
+#container {
+    width: 980px;
+    margin: 30px auto;
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+/* --- HEADER & NAV --- */
+header {
+    padding: 30px;
+    background: linear-gradient(135deg, #ec4899 0%, #a855f7 100%); /* Pink to Purple Gradient */
+}
+
+header h1 {
+    margin: 0;
+    color: white;
+    font-size: 32px;
+    letter-spacing: -1px;
+}
+
+nav {
+    background: #7e22ce; /* Solid Purple */
+    border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+nav a {
+    display: inline-block;
+    padding: 15px 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+nav a.active,
+nav a:hover {
+    background: #ec4899; /* Pink hover */
+}
+
+/* --- LAYOUT WRAPPER --- */
+#wrapper, section#wrapper {
+    display: flex;
+    gap: 25px;
+    padding: 25px;
+}
+
+#main, section#main {
+    flex: 1;
+    min-width: 0;
+}
+
+#main h2, #main h1 {
+    color: #7e22ce;
+    margin-bottom: 20px;
+}
+
+/* --- FORM PENCARIAN (Praktikum 5) --- */
+.form-search {
+    margin-bottom: 25px;
+    display: flex;
+    gap: 10px;
+}
+
+.form-search input[type="text"] {
+    flex: 1;
+    padding: 10px 15px;
+    border: 2px solid #f0abfc;
+    border-radius: 8px;
+    outline: none;
+}
+
+.form-search input[type="text"]:focus {
+    border-color: #a855f7;
+}
+
+/* --- TABLE STYLING --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table th {
+    background: #f5f3ff;
+    color: #7e22ce;
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #ddd6fe;
+}
+
+table td {
+    padding: 15px 12px;
+    border-bottom: 1px solid #f5f3ff;
+}
+
+table tr:hover {
+    background: #fff1f2;
+}
+
+/* --- BUTTONS --- */
+.btn {
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.btn-primary {
+    background: #a855f7;
+}
+
+.btn-primary:hover {
+    background: #9333ea;
+}
+
+.btn-danger {
+    background: #fb7185;
+}
+
+.btn-danger:hover {
+    background: #f43f5e;
+}
+
+/* --- PAGINATION (Praktikum 5) --- */
+#paging {
+    margin-top: 25px;
+}
+
+#paging ul.pagination {
+    display: flex;
+    list-style: none;
+    gap: 5px;
+}
+
+#paging ul.pagination li a {
+    padding: 8px 14px;
+    background: white;
+    border: 1px solid #ddd6fe;
+    color: #7e22ce;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+#paging ul.pagination li.active a,
+#paging ul.pagination li a:hover {
+    background: #ec4899;
+    color: white;
+    border-color: #ec4899;
+}
+
+/* --- SIDEBAR --- */
+#sidebar, aside#sidebar {
+    width: 260px;
+}
+
+.widget-box {
+    background: #fff;
+    border: 1px solid #f0abfc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.widget-box h3.title {
+    color: #ec4899;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #fbcfe8;
+    padding-bottom: 8px;
+}
+
+/* --- FOOTER --- */
+footer {
+    background: #1e1b4b; /* Dark Navy for Contrast */
+    color: rgba(255,255,255,0.8);
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
