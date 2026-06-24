@@ -10,7 +10,7 @@
 <div id="container">
 
     <header>
-        <h1>Portal Berita</h1>
+        <h1>BreakingNewsIDa</h1>
     </header>
 
     <nav>

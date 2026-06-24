@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login</title>
+    <title>Login - BreakingNewsID</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -82,16 +82,16 @@
     </div>
     <?php endif; ?>
 
-    <form action="" method="post">
+    <form action="<?= base_url('user/login'); ?>" method="post">
         <div class="mb-3">
             <label for="InputForEmail">Email address</label>
             <input type="email" name="email" class="form-control"
-                   id="InputForEmail" value="<?= set_value('email') ?>">
+                   id="InputForEmail" value="<?= set_value('email') ?>" required autofocus>
         </div>
         <div class="mb-3">
             <label for="InputForPassword">Password</label>
             <input type="password" name="password" class="form-control"
-                   id="InputForPassword">
+                   id="InputForPassword" required>
         </div>
         <button type="submit" class="btn-primary">Login</button>
     </form>

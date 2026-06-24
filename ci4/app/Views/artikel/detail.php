@@ -1,47 +1,32 @@
-<?= $this->extend('layout/main') ?>
+<?= $this->include('template/header'); ?>
 
-<?= $this->section('content') ?>
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10">
+            
+            <article class="entry">
+                <h1 class="mb-3" style="font-weight: 700; color: #2c3e50;"><?= $artikel['judul']; ?></h1>
+                
+                <p class="text-muted small mb-4">
+                    Dipublikasikan pada: <?= date('d M Y'); ?> | Kategori: <?= $artikel['kategori'] ?? 'Umum'; ?>
+                </p>
+                
+                <?php if (!empty($artikel['gambar'])) : ?>
+                    <div class="mb-4 text-center">
+                        <img src="<?= base_url('/gambar/' . $artikel['gambar']); ?>" 
+                             alt="<?= $artikel['judul']; ?>" 
+                             class="img-fluid rounded shadow-sm" 
+                             style="width: 100%; max-height: 500px; object-fit: cover;">
+                    </div>
+                <?php endif; ?>
+                
+                <div class="entry-content" style="font-size: 1.1rem; line-height: 1.8; color: #333; text-align: justify;">
+                    <?= nl2br($artikel['isi']); ?>
+                </div>
+            </article>
 
-<article class="entry">
-    <h1><?= $artikel['judul']; ?></h1>
-    <small style="color:#999;">
-        <?= date('d M Y', strtotime($artikel['created_at'])) ?>
-    </small>
-    <hr>
-    <?php if (!empty($artikel['gambar'])): ?>
-    <img src="<?= base_url('/gambar/' . $artikel['gambar']); ?>"
-         alt="<?= $artikel['judul']; ?>">
-    <?php endif; ?>
-    <p><?= $artikel['isi']; ?></p>
-</article>
+        </div>
+    </div>
+</div>
 
-<a href="<?= base_url('/artikel'); ?>" class="btn btn-primary"
-   style="display:inline-block; margin-top:15px;">
-    ← Kembali
-</a>
-
-<?= $this->endSection() ?>
-<?= $this->extend('layout/main') ?>
-
-<?= $this->section('content') ?>
-
-<article class="entry">
-    <h1><?= $artikel['judul']; ?></h1>
-    <small style="color:#999;">
-        <?= date('d M Y', strtotime($artikel['created_at'])) ?> | 
-        Kategori: <?= $artikel['nama_kategori'] ?> </small>
-    <hr>
-    <?php if (!empty($artikel['gambar'])): ?>
-    <img src="<?= base_url('/gambar/' . $artikel['gambar']); ?>"
-         alt="<?= $artikel['judul']; ?>">
-    <?php endif; ?>
-    <p><?= $artikel['isi']; ?></p>
-</article>
-
-<a href="<?= base_url('/artikel'); ?>" class="btn btn-primary"
-   style="display:inline-block; margin-top:15px;">
-   ← Kembali
-   
-</a>
-
-<?= $this->endSection() ?>
+<?= $this->include('template/footer'); ?>

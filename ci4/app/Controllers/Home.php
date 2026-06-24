@@ -8,7 +8,7 @@ class Home extends BaseController
     {
         return view('home', [
             'title'   => 'Halaman Home',
-            'content' => 'Selamat datang di Portal Berita. Website ini dibuat menggunakan Framework CodeIgniter 4.',
+            'content' => 'Selamat datang di BreakingNewsID. Website ini dibuat menggunakan Framework CodeIgniter 4.',
         ]);
     }
 }
