@@ -35,7 +35,8 @@ Download CI4 dari https://codeigniter.com/download, ekstrak ke folder `htdocs/la
 http://localhost/lab11_ci/ci4/public/
 ```
 
-![Tampilan Awal CI4](screenshot/p1_tampilan_ci4.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95a62fab-d78a-4dcb-b6a2-4efe7bf94f32" />
+
 
 ### Menjalankan CLI
 
@@ -45,7 +46,7 @@ Buka terminal, arahkan ke folder project, lalu ketik:
 php spark
 ```
 
-![Tampilan CLI](screenshot/p1_cli.png)
+
 
 ### Aktifkan Mode Debugging
 
@@ -69,7 +70,6 @@ $routes->get('/faqs', 'Page::faqs');
 
 Kalau langsung diakses tanpa controller, akan muncul error 404 dulu.
 
-![Error 404](screenshot/p1_error404.png)
 
 Buat controller-nya di `app/Controllers/Page.php`:
 
@@ -251,9 +251,6 @@ class ArtikelTerkini extends Cell
 
 Lalu buat viewnya di `app/Views/components/artikel_terkini.php`.
 
-![Layout Baru](screenshot/p3_layout_baru.png)
-
-![Sidebar View Cell](screenshot/p3_view_cell.png)
 
 ---
 
@@ -311,7 +308,6 @@ Daftarkan di `app/Config/Filters.php`:
 'auth' => App\Filters\Auth::class
 ```
 
-![Redirect ke Login](screenshot/p4_redirect_login.png)
 
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/64422a61-e48a-4f18-8ddd-f50f12598eeb" />
 
@@ -348,7 +344,6 @@ Tambahkan di bagian bawah view:
 <?= $pager->only(['q'])->links(); ?>
 ```
 
-![Tampilan Pagination](screenshot/p5_pagination.png)
 
 ### Form Pencarian
 
