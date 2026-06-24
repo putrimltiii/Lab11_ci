@@ -193,9 +193,11 @@ INSERT INTO artikel (judul, isi, slug) VALUES
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/694ac1da-6b66-46de-865c-2735851ae29f" />
 
 
-![Form Tambah](screenshot/p2_form_tambah.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84bfc278-9622-4ee7-92d7-b9a0d9146c98" />
 
-![Form Edit](screenshot/p2_form_edit.png)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/698da7f5-b9d6-4073-8716-3bbe9eeec285" />
+
 
 ---
 
@@ -407,11 +409,12 @@ public function getArtikelDenganKategori()
 
 Semua view yang menampilkan artikel diupdate — form tambah dan edit sekarang ada dropdown untuk memilih kategori.
 
-![Artikel dengan Kategori](screenshot/p6_artikel_kategori.png)
 
-![Form Tambah dengan Kategori](screenshot/p6_form_tambah_kategori.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb74d372-9c34-41de-8de2-9f6dc0356a08" />
 
-![Form Edit dengan Kategori](screenshot/p6_form_edit_kategori.png)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f6f94a1-3f86-48e4-bdcc-eb4824f1933d" />
+
 
 ---
 
@@ -443,10 +446,8 @@ Tambahkan input file dan ubah tag form-nya:
     </p>
 </form>
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3690c6a7-f0bc-4119-8b52-c2af99c28606" />
 
-![Form Upload](screenshot/p7_form_upload.png)
-
-![Artikel dengan Gambar](screenshot/p7_artikel_gambar.png)
 
 ---
 
@@ -501,9 +502,11 @@ $.ajax({
 ```
 
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/b4d43e98-e597-484d-9188-2518fe71f7ae" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/f048eb51-44e7-4357-bd43-71e5f3e9f68f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8997580e-cfa7-4b44-ab8c-0fea00ddfde8" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/840d92d6-ce77-4ac3-92bf-62d488d6d10d" />
 
-![Hapus Data AJAX](screenshot/p8_ajax_hapus.png)
 
 ---
 
@@ -653,29 +656,28 @@ php spark routes
 **GET — Semua Data**  
 Method: GET | URL: `http://localhost:8080/post`
 
-![GET Semua Data](screenshot/p10_get_all.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/59b8cf6b-cd09-4da4-9359-a7da8f5a8390" />
+
 
 **GET — Data Spesifik**  
 Method: GET | URL: `http://localhost:8080/post/2`
 
-![GET Spesifik](screenshot/p10_get_one.png)
 
 **POST — Tambah Data**  
 Method: POST | URL: `http://localhost:8080/post`  
 Body: x-www-form-urlencoded → isi judul dan isi
 
-![POST Tambah](screenshot/p10_post.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/9912b2cd-17eb-41c8-add4-eb412566c7ce" />
+
 
 **PUT — Ubah Data**  
 Method: PUT | URL: `http://localhost:8080/post/2`  
 Body: x-www-form-urlencoded → isi data yang diubah
 
-![PUT Ubah](screenshot/p10_put.png)
 
 **DELETE — Hapus Data**  
 Method: DELETE | URL: `http://localhost:8080/post/7`
 
-![DELETE Hapus](screenshot/p10_delete.png)
 
 ---
 
