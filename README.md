@@ -1,8 +1,8 @@
 # Lab11_CI - Pemrograman Web 2
 
 **Nama:** Putri Melati Ramadhaniati  
-**NIM:** (isi NIM kamu)  
-**Kelas:** (isi kelas kamu)  
+**NIM:** 312410194  
+**Kelas:** I241B
 **Dosen:** Agung Nugroho  
 **Mata Kuliah:** Pemrograman Web 2 — Universitas Pelita Bangsa  
 
