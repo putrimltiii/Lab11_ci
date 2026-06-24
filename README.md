@@ -108,7 +108,8 @@ Buat file `app/Views/template/header.php` dan `footer.php` sebagai template. Lal
 <?= $this->include('template/footer'); ?>
 ```
 
-![Halaman About](screenshot/p1_halaman_about.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1041fe4-273b-4c13-ae12-67963a19c527" />
+
 
 ---
 
@@ -176,8 +177,6 @@ Buat `app/Controllers/Artikel.php` dengan method:
 
 Pertama kali diakses, tabel masih kosong.
 
-![Artikel Kosong](screenshot/p2_artikel_kosong.png)
-
 Setelah data dimasukkan via SQL:
 
 ```sql
@@ -186,11 +185,13 @@ INSERT INTO artikel (judul, isi, slug) VALUES
 ('Artikel kedua', 'Tidak seperti...', 'artikel-kedua');
 ```
 
-![Daftar Artikel](screenshot/p2_daftar_artikel.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/96ce23ab-fa4b-4ce4-8a00-890bbe04df59" />
 
-![Detail Artikel](screenshot/p2_detail_artikel.png)
 
-![Halaman Admin](screenshot/p2_admin_artikel.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/ba54642a-01ec-4d64-9359-fafade90bfc1" />
+
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/694ac1da-6b66-46de-865c-2735851ae29f" />
+
 
 ![Form Tambah](screenshot/p2_form_tambah.png)
 
@@ -278,7 +279,8 @@ Buat `app/Models/UserModel.php` dan `app/Controllers/User.php`. Di controller, m
 
 Buat `app/Views/user/login.php` dengan form yang menerima email dan password.
 
-![Form Login](screenshot/p4_form_login.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/a370b060-7b54-4848-8dd4-c3f79693fbb0" />
+
 
 ### Database Seeder
 
@@ -309,7 +311,8 @@ Daftarkan di `app/Config/Filters.php`:
 
 ![Redirect ke Login](screenshot/p4_redirect_login.png)
 
-![Berhasil Login](screenshot/p4_berhasil_login.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/64422a61-e48a-4f18-8ddd-f50f12598eeb" />
+
 
 ---
 
@@ -356,7 +359,8 @@ Tambahkan form di atas tabel:
 </form>
 ```
 
-![Hasil Pencarian](screenshot/p5_pencarian.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/ba1ebc75-11ef-4b06-bb7c-53c37068a22d" />
+
 
 ---
 
@@ -496,7 +500,8 @@ $.ajax({
 });
 ```
 
-![Data via AJAX](screenshot/p8_ajax_data.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/b4d43e98-e597-484d-9188-2518fe71f7ae" />
+
 
 ![Hapus Data AJAX](screenshot/p8_ajax_hapus.png)
 
@@ -539,9 +544,11 @@ const fetchData = (url) => {
 
 Pagination dirender dinamis lewat JavaScript, tidak lagi dari PHP.
 
-![Pagination AJAX](screenshot/p9_ajax_pagination.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/cef5056c-caf4-4464-b85e-722406ba015c" />
 
-![Search AJAX](screenshot/p9_ajax_search.png)
+
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/da5e3894-9b67-40fc-9bbf-7890e8c0f807" />
+
 
 ---
 
