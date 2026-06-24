@@ -12,21 +12,6 @@ Repository ini berisi laporan praktikum Pemrograman Web 2. Semua praktikum diker
 
 ---
 
-## Daftar Isi
-
-- [Praktikum 1 - Pengenalan CodeIgniter 4](#praktikum-1---pengenalan-codeigniter-4)
-- [Praktikum 2 - CRUD Artikel](#praktikum-2---crud-artikel)
-- [Praktikum 3 - View Layout dan View Cell](#praktikum-3---view-layout-dan-view-cell)
-- [Praktikum 4 - Modul Login](#praktikum-4---modul-login)
-- [Praktikum 5 - Pagination dan Pencarian](#praktikum-5---pagination-dan-pencarian)
-- [Praktikum 6 - Relasi Tabel dan Query Builder](#praktikum-6---relasi-tabel-dan-query-builder)
-- [Praktikum 7 - Upload Gambar](#praktikum-7---upload-gambar)
-- [Praktikum 8 - AJAX](#praktikum-8---ajax)
-- [Praktikum 9 - AJAX Pagination dan Search](#praktikum-9---ajax-pagination-dan-search)
-- [Praktikum 10 - REST API](#praktikum-10---rest-api)
-
----
-
 ## Praktikum 1 - Pengenalan CodeIgniter 4
 
 Praktikum pertama ini tujuannya buat kenalan dulu sama CodeIgniter 4 — mulai dari instalasi, struktur foldernya, sampai bikin halaman sederhana pakai konsep MVC.
